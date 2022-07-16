@@ -1,4 +1,5 @@
 import HouseClicked from "./actions/house-clicked";
+import RandomQuote from "./actions/random-quote";
 import Welcome from "./actions/welcome";
 
 export const routes = [
@@ -13,5 +14,10 @@ export const routes = [
         action: HouseClicked,
       },
     ],
+  },
+  {
+    path: "random-quote",
+    text: /.*/,
+    action: RandomQuote,
   },
 ];
