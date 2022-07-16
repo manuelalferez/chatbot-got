@@ -27,7 +27,7 @@ export default class extends React.Component {
   render() {
     return (
       <>
-        <Text>GoT Houses</Text>
+        <Text>GoT Houses 👑 </Text>
         <Carousel>
           {this.context.session.houses.map((e) => (
             <Element key={e.name}>
