@@ -4,7 +4,7 @@
   "scripts": {
     "build": "webpack --env target=all --mode=production",
     "start": "webpack serve --env target=dev --mode=development",
-    "test": "jest",
+    "test": "jest --watchAll",
     "train:ner": "ts-node src/nlp/tasks/ner/train.ts",
     "train:intent-classification": "ts-node src/nlp/tasks/intent-classification/train.ts"
   },
@@ -20,7 +20,8 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.12.5",
-    "@botonic/react": "~0.20.0"
+    "@botonic/react": "~0.20.0",
+    "isomorphic-fetch": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
