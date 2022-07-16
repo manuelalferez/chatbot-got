@@ -1,4 +1,4 @@
-import HouseClicked from "./actions/house-clicked";
+import HouseClicked from "./actions/button-clicked";
 import RandomQuote from "./actions/random-quote";
 import Welcome from "./actions/welcome";
 
