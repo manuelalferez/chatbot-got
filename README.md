@@ -75,7 +75,7 @@ botonic serve
 <p align="center">
     <img src="https://ik.imagekit.io/manuelalferez/chatbot-got/Captura_de_pantalla_2022-07-17_a_las_11.37.58_U_pN5ujNQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658050711893" width="250">
 </p>
-<p align="center">The bot shows a carousel with the different GoT Houses.</p>
+<p align="center">The bot replies with a random quote.</p>
 
 
 
