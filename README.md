@@ -62,3 +62,20 @@ npm install
 botonic serve
 ````
 8. Open http://localhost:8080/ in your web browser. Your bot is alive! 🎉 🎉
+
+## What it looks like
+
+<p align="center">The bot shows a carousel with the different GoT Houses.</p>
+<p align="center">
+    <img src="https://ik.imagekit.io/manuelalferez/chatbot-got/Captura_de_pantalla_2022-07-17_a_las_11.36.09_eejH4K1OL.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658050712258" width="250">
+    <img  src="https://ik.imagekit.io/manuelalferez/chatbot-got/Captura_de_pantalla_2022-07-17_a_las_11.36.45_TvEa1U8AP.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658050712265" width="250">
+</p>
+
+</br></br>
+<p align="center">
+    <img src="https://ik.imagekit.io/manuelalferez/chatbot-got/Captura_de_pantalla_2022-07-17_a_las_11.37.58_U_pN5ujNQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1658050711893" width="250">
+</p>
+<p align="center">The bot shows a carousel with the different GoT Houses.</p>
+
+
+
