@@ -1,4 +1,5 @@
 import BotIcon from "../assets/botIcon.png";
+import BotWhiteIcon from "../assets/botWhiteIcon.png";
 import { COLORS } from "./constants";
 
 export const webchat = {
@@ -13,7 +14,7 @@ export const webchat = {
       lineHeight: 1.3,
     },
     header: {
-      image: BotIcon,
+      image: BotWhiteIcon,
       title: "Game of Thrones Chatbot",
       style: {
         background: COLORS.PRIMARY_COLOR,
@@ -37,8 +38,8 @@ export const webchat = {
         padding: "10px",
         width: "150px",
       },
-      hoverBackground: COLORS.MAIN_COLOR,
-      hoverTextColor: "black",
+      hoverBackground: COLORS.PRIMARY_COLOR,
+      hoverTextColor: "white",
     },
     message: {
       bot: {
